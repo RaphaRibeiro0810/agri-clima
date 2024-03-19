@@ -1,2 +1,4 @@
 # agri-clima
 Projeto Integrador IV - Sistemas de Informação (2.2023)
+O problema a ser resolvido é que pequenos e médios agricultores, como a AgroTech Brasil, enfrentam desafios na obtenção de dados climáticos precisos e atualizados, como pluviometria e temperatura, para otimizar suas operações agrícolas. Atualmente, a coleta desses dados é realizada de forma manual, demorada e ineficiente, o que resulta em um esforço significativo, risco de erro humano e dificuldade na interpretação das informações. Além disso, a falta de acesso simplificado a esses dados torna difícil tomar decisões informadas de maneira rápida e eficaz.
+A solução escolhida pelo grupo foi desenvolver uma solução que automatiza a coleta periódica de dados climáticos, fornecidos pelo INMET, para os agricultores. Com o intuito de reduzir o esforço manual e minimizar erros, mantendo a precisão das informações.
